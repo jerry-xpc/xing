@@ -6,3 +6,4 @@ hello test git
 多合并分支解决冲突
 的所得税的是
 解决bug分支问题
+check
